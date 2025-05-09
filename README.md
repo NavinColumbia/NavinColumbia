@@ -32,9 +32,14 @@ Java 17, Python 3, Spring Boot 3, REST/gRPC, PostgreSQL, Snowflake, AWS, GCP, Do
 ---
 
 #### Professional Highlights
-* **BNY Mellon, Software Engineer** — designed a 5 TB cross-regional ETL system, cut runtime 80 %.  
-* Led Spring Boot 2→3 upgrade, closed 21 CVEs and enabled zero-downtime releases.  
-* Automated Teradata disaster-recovery flows, reducing restore time to <30 min.
+* **BNY Mellon – Software Engineer (Jul 2023 – Aug 2024)**  
+  * Designed a 5 TB cross-regional ETL system, cutting runtime by **80 %**.  
+  * Led a Spring Boot 2 → 3 upgrade, patched 21 CVEs, and enabled zero-downtime releases.  
+  * Automated Teradata disaster-recovery flows, reducing restore time to **&lt; 30 min**.
+
+* **Amazon – Incoming SDE Intern (Summer 2025)**  
+  * Will join an AWS team focused on large-scale data services (details summer ’25).
+
 
 Full details in my [résumé](./resume.pdf).
 
