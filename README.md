@@ -6,15 +6,6 @@ ns3886@columbia.edu · [LinkedIn](https://linkedin.com/in/navinashok-swaminathan
 
 ---
 
-#### What I Do
-I like building reliable backend and full-stack systems, from data-heavy ETL pipelines to Spring Boot microservices and Python tooling.  
-Right now I’m finishing my master’s at Columbia and will spend Summer 2025 as an SDE intern at AWS.
-
-**Tech I use regularly**  
-Java 17, Python 3, Spring Boot 3, REST/gRPC, PostgreSQL, Snowflake, AWS, GCP, Docker/K8s, GitLab CI
-
----
-
 #### Projects (selected)
 * **PharmaId – Medication-List Service**  
   Spring Boot REST API on GCP (Cloud SQL) with JWT-secured roles, Swagger docs, and >90 % Jacoco test coverage.  
@@ -33,12 +24,8 @@ Java 17, Python 3, Spring Boot 3, REST/gRPC, PostgreSQL, Snowflake, AWS, GCP, Do
 
 #### Professional Highlights
 * **BNY Mellon – Software Engineer (Jul 2023 – Aug 2024)**  
-  * Designed a 5 TB cross-regional ETL system, cutting runtime by **80 %**.  
-  * Led a Spring Boot 2 → 3 upgrade, patched 21 CVEs, and enabled zero-downtime releases.  
-  * Automated Teradata disaster-recovery flows, reducing restore time to **&lt; 30 min**.
-
-* **Amazon – Incoming SDE Intern (Summer 2025)**  
-  * Will join an AWS team focused on large-scale data services (details summer ’25).
+  * . America’s oldest bank (est. 1784) and the world’s largest custodian, with over 49 trillion USD in assets under custody.
+* **Amazon – SDE Intern (Summer 2025)**  
 
 
 Full details in my [résumé](./resume.pdf).
