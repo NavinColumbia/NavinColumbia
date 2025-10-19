@@ -27,9 +27,6 @@ ns3886@columbia.edu · [LinkedIn](https://linkedin.com/in/navinashok-swaminathan
   * . America’s oldest bank (est. 1784) and the world’s largest custodian, with over 49 trillion USD in assets under custody.
 * **Amazon – SDE Intern (Summer 2025)**  
 
-
-Full details in my [résumé](./resume.pdf).
-
 ---
 
 #### Looking Ahead
